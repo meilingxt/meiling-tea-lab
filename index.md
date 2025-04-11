@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Meiling's Tea Lab
 ---
 
-# Test
+This is a space to post my notes as I learn about tea.
